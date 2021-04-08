@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web-timer/static/css/main.3abbcd46.chunk.css",
+    "main.js": "/web-timer/static/js/main.6de97919.chunk.js",
+    "main.js.map": "/web-timer/static/js/main.6de97919.chunk.js.map",
+    "runtime-main.js": "/web-timer/static/js/runtime-main.69f7a435.js",
+    "runtime-main.js.map": "/web-timer/static/js/runtime-main.69f7a435.js.map",
+    "static/js/2.facd3739.chunk.js": "/web-timer/static/js/2.facd3739.chunk.js",
+    "static/js/2.facd3739.chunk.js.map": "/web-timer/static/js/2.facd3739.chunk.js.map",
+    "index.html": "/web-timer/index.html",
+    "precache-manifest.6aa0cd6464f81b41d2660fa97189ae10.js": "/web-timer/precache-manifest.6aa0cd6464f81b41d2660fa97189ae10.js",
+    "service-worker.js": "/web-timer/service-worker.js",
+    "static/css/main.3abbcd46.chunk.css.map": "/web-timer/static/css/main.3abbcd46.chunk.css.map",
+    "static/js/2.facd3739.chunk.js.LICENSE.txt": "/web-timer/static/js/2.facd3739.chunk.js.LICENSE.txt",
+    "static/media/alarm_clock.mp3": "/web-timer/static/media/alarm_clock.3e74f665.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69f7a435.js",
+    "static/js/2.facd3739.chunk.js",
+    "static/css/main.3abbcd46.chunk.css",
+    "static/js/main.6de97919.chunk.js"
+  ]
+}
